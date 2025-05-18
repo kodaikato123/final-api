@@ -9,7 +9,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:5173", "https://final-ui-oks7.onrender.com"})
+@CrossOrigin(origins = {"http://localhost:5173", "https://final-ui-ik64.onrender.com"})
 @RequestMapping("/kato/posts")
 public class PostController {
 
